@@ -1,0 +1,6 @@
+.features{
+    display: none;
+}
+.bestSeller-slider:hover .features{
+    display: flex;
+}
